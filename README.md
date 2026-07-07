@@ -14,10 +14,9 @@ Apasionada por la programación y el desarrollo web, disfruto creando aplicacion
 
 ## 💼 Conectemos
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pilar-gir%C3%B3n-jord%C3%A1n-229282269/)
-Teléfono: +34 651885750
-Email: pilargijor@hotmail.es
-Porfolio: En construcción
-
+- 📞 **Teléfono:** +34 651 885 750
+- 📧 **Email:** pilargijor@hotmail.es
+- 🌐 **Portfolio:** En construcción
 
 ---
 
